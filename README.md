@@ -13,7 +13,7 @@
           <img  width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZainHanif73&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Zain Hanif :: Top Langs" /></a>
         </p>
         <p align="center">
-          <a href="https://github.com/AhsanYousaf">
+          <a href="https://github.com/zainhanif73">
           <img width="70%" src="https://github-readme-stats.vercel.app/api?username=ZainHanif73&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZainHanif73&theme=gruvbox&hide_border=true" />
           </a>
