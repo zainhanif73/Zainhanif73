@@ -3,26 +3,6 @@
 <h4 align="center">Full Stack Developer</h4>
 </div>
 
-<div>
-  <summary>☎️ contact me</summary>
-<div>
-  <samp>
-   <p align="center">
-      <a href="https://www.facebook.com/ahsan.bhatti.10236/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="ahsan" height="30"/></a>
-      <a href="https://wa.me/+923128301970" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="ahsan" height="30"/></a>
-      <a href="https://twitter.com/ahsanbhatti624" target="blank"><img align="center"
-         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="ahsan" height="30"/></a>
-      <br>
-    </p>
-  </samp>
-</div>
-</div>
-
 <div> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
