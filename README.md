@@ -10,7 +10,7 @@
       <br/>
         <p align="center">
           <a href="https://github.com/ZainHanif73">
-          <img  width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainhanif73&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Zain Hanif :: Top Langs" /></a>
+          <img  width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZainHanif73&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Zain Hanif :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/AhsanYousaf">
