@@ -22,7 +22,7 @@
 
 <h3> Here's some facts about me: </h3>
 
-- 🌱 I’m currently learning **Node JS/MongoDB , Ios Development **
+- 🌱 I’m currently learning **Node JS/MongoDB **
 
 - 👯 I’m looking to collaborate on **Startup that can bring change in the World**
 
