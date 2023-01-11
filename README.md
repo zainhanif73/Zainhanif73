@@ -21,10 +21,3 @@
      <br>
   </div>    
 </div>
-
-<div>
-  <summary>📈 Activity Graph</summary>
-  <br/>
-  <h2 align="center"> My Current Activity </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Zain hanif Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=ZainHanif73&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-</div>
