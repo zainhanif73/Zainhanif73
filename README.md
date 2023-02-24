@@ -10,7 +10,7 @@
 <a href="https://twitter.com/zain14444"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://dev.to/zainhanif73"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/zainhanif731"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
- 
+
  </p>
 
 <div align="center">
@@ -20,7 +20,7 @@
 
 ![](https://komarev.com/ghpvc/?username=zainhanif)
 
-<h3> Here's some facts about me: </h3>
+<h3> Here's some facts about me:</h3>
 
 - 🌱 I’m currently learning **Node JS/MongoDB **
 
