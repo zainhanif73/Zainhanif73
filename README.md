@@ -76,7 +76,6 @@
 
 ### Here's my github README stats:
 
-![zainhanif73 GitHub stats](https://github-readme-stats.vercel.app/api?username=zainhanif73&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zainhanif73&theme=radical)](https://git.io/streak-stats) 
 
 <p align="left">
